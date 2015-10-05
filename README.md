@@ -27,3 +27,6 @@ The text editor is the heart of the Nitrous IDE (integrated development environm
 While the upper part of the screen is where you write code, the lower part of the screen is called the console, giving you access to the shell. This is where you'll be typing in commands to control your container. If you were using a Mac OSX environment, this command line is referred to as the "Terminal"—so if you ever hear people mention Terminal, this console is your equivalent in Nitrous. 
 
 We'll soon cover how to enter commands into the console that will allow you open, test and submit code. 
+
+## Additional Resources
+- [Nitrous help docs](https://community.nitrous.io/docs)
