@@ -12,7 +12,7 @@ Let's spend a minute studying the Nitrous user interface. You'll notice that it'
 
 ![file_browser_emph](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_file_browser_emphasis.png)
 
-The left side of your Nitrous window houses a simple file browser. It works just like a file browser on any computer: you can navigate a tree of folder and files to find the file you're looking for. Opening a file will open its contents in the text editor on the right.
+The left side of your Nitrous window houses a simple file browser. It works just like a file browser on any computer: you can navigate a tree of folders and files to find the file you're looking for. Opening a file will open its contents in the text editor on the right.
 
 ## Nitrous text editor 
 
