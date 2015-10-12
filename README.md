@@ -2,7 +2,7 @@
 
 ## Opening Nitrous
 
-Nitrous is the cloud-based development environment you'll be using to write code on Learn. It's really easy to open Nitrous from a lesson on Learn: just click the Open button on the toolbar at the top of a lab. The Nitrous development environment will load in its own browser tab, making it easy for you to flip back and forther between Learn and your code. Note: since this lesson is simply a README, e.g. does not have any code associated with it, you're not able to open it in Nitrous.
+Nitrous is the cloud-based development environment you'll be using to write code on Learn. It's really easy to open Nitrous from a lesson on Learn: just click the Open button on the toolbar at the top of a lab. The Nitrous development environment will load in its own browser tab, making it easy for you to flip back and forth between Learn and your code. Note: since this lesson is simply a README, e.g. does not have any code associated with it, you're not able to open it in Nitrous.
 
 It's worth pausing for a moment to reflect on how Nitrous works. When you signed up for Learn, we created a Nitrous "instance" for you, also known as a "container". You can think of this container as a virtual computer in the cloud (running on a server somewhere on the Internet), which you access in a web browser through the Nitrous interface, that gives you access to all of the things you'd expect from a real computer: the ability to browse files, create documents and interact with the shell. Conveniently, that's all you need to develop software. 
 
