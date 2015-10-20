@@ -29,4 +29,4 @@ While the upper part of the screen is where you write code, the lower part of th
 We'll soon cover how to enter commands into the console that will allow you open, test and submit code. 
 
 ## Additional Resources
-- [Nitrous help docs](https://community.nitrous.io/docs)
+- [Nitrous help docs](https://community.nitrous.io/docs) (note that we take care of a lot of the Nitrous housekeeping stuff behind the scenes for you, and you won't have to worry about the majority of the stuff covered there.)
