@@ -28,5 +28,8 @@ While the upper part of the screen is where you write code, the lower part of th
 
 We'll soon cover how to enter commands into the console that will allow you open, test and submit code. 
 
+
+**Note**: The keyboard shortcut to paste text that is on your clipboard into the console section is **Control + Shift + V** .
+
 ## Additional Resources
 - [Nitrous help docs](https://community.nitrous.io/docs)
