@@ -33,6 +33,6 @@ We'll soon cover how to enter commands into the console that will allow you open
 
 ## Additional Resources
 - [Nitrous help docs](https://community.nitrous.io/docs)
-  *Notethat we take care of a lot of the Nitrous housekeeping stuff behind the scenes for you, and you won't have to worry about the majority of the stuff covered there.)* 
+  *Note that we take care of a lot of the Nitrous housekeeping stuff behind the scenes for you, and you won't have to worry about the majority of the stuff covered there.)* 
 
 <a href='https://learn.co/lessons/first-console-nitrous' data-visibility='hidden'>View this lesson on Learn.co</a>
