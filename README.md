@@ -35,4 +35,4 @@ We'll soon cover how to enter commands into the console that will allow you open
 - [Nitrous help docs](https://community.nitrous.io/docs)
   *Note that we take care of a lot of the Nitrous housekeeping stuff behind the scenes for you, and you won't have to worry about the majority of the stuff covered there.)* 
 
-<a href='https://learn.co/lessons/first-console-nitrous' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-console-nitrous' title='Using the Nitrous console'>Using the Nitrous console</a> on Learn.co and start learning to code for free.</p>
