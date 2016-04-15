@@ -6,7 +6,6 @@ Nitrous is the cloud-based development environment you'll be using to write code
 
 It's worth pausing for a moment to reflect on how Nitrous works. When you signed up for Learn, we created a Nitrous "instance" for you, also known as a "container". You can think of this container as a virtual computer in the cloud (running on a server somewhere on the Internet), which you access in a web browser through the Nitrous interface, that gives you access to all of the things you'd expect from a real computer: the ability to browse files, create documents and interact with the shell. Conveniently, that's all you need to develop software. 
 
-Let's spend a minute studying the Nitrous user interface. You'll notice that it's composed of three sections: (1) a file browser (2) a text editor and (3) the console. 
 
 ## Nitrous file browser
 
